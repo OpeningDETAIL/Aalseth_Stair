@@ -22,5 +22,18 @@ Per usual, unless otherwise noted, all content associated with [OpeningDETAIL](h
 [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)--freely available to any party, for any use, assuming the terms such as [Attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution) and [ShareAlike](https://en.wikipedia.org/wiki/Share-alike) are honored. Attribution to be given to the entire team associated with the project.
 ![Attribution 4.0 International (CC BY 4.0)](https://licensebuttons.net/l/by/3.0/88x31.png)
 
-![](Aalseth_Stair_1.png)
-![](Aalseth_Stair_2.png)
+![](jpgs/Aalseth_Stair_1.png)
+![](jpgs/Aalseth_Stair_2.png)
+![](jpgs/Aalseth-StairPage001.jpg)
+![](jpgs/Aalseth-StairPage002.jpg)
+![](jpgs/Aalseth-StairPage003.jpg)
+![](jpgs/Aalseth-StairPage004.jpg)
+![](jpgs/Aalseth-StairPage005.jpg)
+![](jpgs/Aalseth-StairPage006.jpg)
+![](jpgs/Aalseth-StairPage007.jpg)
+![](jpgs/Aalseth-StairPage008.jpg)
+![](jpgs/Aalseth-StairPage009.jpg)
+![](jpgs/Aalseth-StairPage010.jpg)
+![](jpgs/Aalseth-StairPage011.jpg)
+
+
